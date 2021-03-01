@@ -1,0 +1,25 @@
+.Menu {
+    text-align: center;
+    align-items: center;
+}
+
+a {
+    padding: 10px;
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    color: white;
+}
+
+.Navi {
+    text-align: center;
+    align-items: center;
+    background-color: #252729b0;
+    max-height: 40px;
+    padding: 10px;
+}

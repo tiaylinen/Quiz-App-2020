@@ -1,0 +1,9 @@
+.welcome {
+    font-size: 60px;
+    font-weight: lighter;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-shadow: 1px 5px 10px rgba(0, 0, 0, 0.425);
+    letter-spacing: 5px;
+    padding-top: 200px;
+}
